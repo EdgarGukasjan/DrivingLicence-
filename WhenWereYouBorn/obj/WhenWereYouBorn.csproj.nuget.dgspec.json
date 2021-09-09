@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\titpe21\\HowOldAreYou\\ControlFlow\\WhenWereYouBorn\\WhenWereYouBorn.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\LOGITpe21\\ControlFlow\\WhenWereYouBorn\\WhenWereYouBorn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\titpe21\\HowOldAreYou\\ControlFlow\\WhenWereYouBorn\\WhenWereYouBorn.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\LOGITpe21\\ControlFlow\\WhenWereYouBorn\\WhenWereYouBorn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\titpe21\\HowOldAreYou\\ControlFlow\\WhenWereYouBorn\\WhenWereYouBorn.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\LOGITpe21\\ControlFlow\\WhenWereYouBorn\\WhenWereYouBorn.csproj",
         "projectName": "WhenWereYouBorn",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\titpe21\\HowOldAreYou\\ControlFlow\\WhenWereYouBorn\\WhenWereYouBorn.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe21\\ControlFlow\\WhenWereYouBorn\\WhenWereYouBorn.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\titpe21\\HowOldAreYou\\ControlFlow\\WhenWereYouBorn\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe21\\ControlFlow\\WhenWereYouBorn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

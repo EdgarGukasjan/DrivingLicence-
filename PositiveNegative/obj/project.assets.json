@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\LOGITpe21\\ControlFlow\\ControlFlow\\ControlFlow.csproj",
-      "projectName": "ControlFlow",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe21\\ControlFlow\\ControlFlow\\ControlFlow.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\LOGITpe21\\ControlFlow\\PositiveNegative\\PositiveNegative.csproj",
+      "projectName": "PositiveNegative",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe21\\ControlFlow\\PositiveNegative\\PositiveNegative.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe21\\ControlFlow\\ControlFlow\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe21\\ControlFlow\\PositiveNegative\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

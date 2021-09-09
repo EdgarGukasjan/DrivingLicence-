@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{64A9D58E-93F5-44FB-A820-8102319C4284}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{64A9D58E-93F5-44FB-A820-8102319C4284}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhenWereYouBorn", "WhenWereYouBorn\WhenWereYouBorn.csproj", "{E31ED088-9DDC-451D-9FAA-6B732FD854C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhenWereYouBorn", "WhenWereYouBorn\WhenWereYouBorn.csproj", "{E31ED088-9DDC-451D-9FAA-6B732FD854C9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HowOldAreYou", "..\..\..\LOGITpe21\HowOldAreYou\HowOldAreYou\HowOldAreYou.csproj", "{164CBE4B-9D0C-44A0-A151-8A29B2A53F1C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreetingsV2", "..\..\..\LOGITpe21\Greetings\GreetingsV2\GreetingsV2.csproj", "{388B9E86-588D-487B-B7FC-56B89ECA8A53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrivingLicence", "DrivingLicence\DrivingLicence.csproj", "{1FA8150D-B2F8-4820-9EA7-EBD3E1BD41BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrivingLicence", "DrivingLicence\DrivingLicence.csproj", "{1FA8150D-B2F8-4820-9EA7-EBD3E1BD41BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositiveNegative", "PositiveNegative\PositiveNegative.csproj", "{B90FB33F-029E-4BB8-BD7E-7A848B57D308}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1FA8150D-B2F8-4820-9EA7-EBD3E1BD41BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FA8150D-B2F8-4820-9EA7-EBD3E1BD41BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FA8150D-B2F8-4820-9EA7-EBD3E1BD41BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90FB33F-029E-4BB8-BD7E-7A848B57D308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90FB33F-029E-4BB8-BD7E-7A848B57D308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90FB33F-029E-4BB8-BD7E-7A848B57D308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90FB33F-029E-4BB8-BD7E-7A848B57D308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
